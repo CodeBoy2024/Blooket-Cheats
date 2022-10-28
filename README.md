@@ -1,2 +1,3 @@
 # Blooket-Cheats
-The Official SVA Blooket Hacks
+Great working Blooket hacks for your enjoyment.
+Code edited from #Minemaster121 original Blooket cheats.
