@@ -1,4 +1,4 @@
-# Blooket-Cheats
+# Blooket Cheats
 Great working Blooket hacks made by CodeBoy2024 for your enjoyment.
 Code edited from Minemaster121 original Blooket cheats.
 To use cheats, type javascript: in a new tab then paste the code for the cheat you want.
