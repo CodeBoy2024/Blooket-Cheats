@@ -14,3 +14,11 @@ Bad Enemy: Makes your enemy bad.
 Get Coins: Lets you change the amout of coins you have.
 Health Hack: Lets you change the amount of health you have.
 Max Stats: Sets your power, charishma, and hearts to 1e+308(cards only).
+# Racing
+Instant Win: Allows you to win Instantly.
+# Monster Brawl
+Set XP: Lets you set how much XP you have.
+Set Level: Lets you set how what level you are on.
+Set Damage: Lets you set how much damage you do.
+Max Abilities: Maxes out all of your current abilities. 
+Godmode: Enables Godmode.
