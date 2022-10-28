@@ -22,3 +22,9 @@ Set Level: Lets you set how what level you are on.
 Set Damage: Lets you set how much damage you do.
 Max Abilities: Maxes out all of your current abilities. 
 Godmode: Enables Godmode.
+# In-Game
+Sell Dupes: Sells all of your duplicate blooks.
+Select Any Blook: Lets you choose from any blook ever created before start of a hosted game.
+Flood Game: Floods a hosted game.
+All Answers Correct: Makes every answer correct.
+Add Tokens: Adds 500 tokens and 300 xp.(Can only use once a day)
